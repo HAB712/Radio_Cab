@@ -1,5 +1,8 @@
 ﻿@model RadioCab.Models.User
-
+@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -79,7 +82,7 @@
                     </div>
                     
                     <div class="register-link">
-                        Don't have an account? <a asp-controller="Account" asp-action="Register">Register Now</a>
+                        Don't have an account? <a asp-controller="Account" asp-action="RegCard">Register Now</a>
                     </div>
                 </form>
             </div>

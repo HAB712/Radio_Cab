@@ -1,3 +1,7 @@
+wwwroot\css\access.css
+wwwroot\css\car.png
+wwwroot\css\Com_reg.css
+wwwroot\css\Drive_reg.css
 wwwroot\css\Login.css
 wwwroot\css\signup.css
 wwwroot\css\site.css
@@ -60,3 +64,4 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\web_img\car.png

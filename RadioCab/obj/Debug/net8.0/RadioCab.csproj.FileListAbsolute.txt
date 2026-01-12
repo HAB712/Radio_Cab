@@ -261,3 +261,4 @@ F:\AEproject\RadioCab\RadioCab\obj\Debug\net8.0\refint\RadioCab.dll
 F:\AEproject\RadioCab\RadioCab\obj\Debug\net8.0\RadioCab.pdb
 F:\AEproject\RadioCab\RadioCab\obj\Debug\net8.0\RadioCab.genruntimeconfig.cache
 F:\AEproject\RadioCab\RadioCab\obj\Debug\net8.0\ref\RadioCab.dll
+F:\AEproject\RadioCab\RadioCab\obj\Debug\net8.0\RadioCab.sourcelink.json
